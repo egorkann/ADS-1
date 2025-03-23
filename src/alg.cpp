@@ -1,3 +1,4 @@
+// Copyright 2025 NNTU-CS
 #include <cstdint>
 #include "alg.h"
 
